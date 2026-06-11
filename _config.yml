@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
-keywords:
+title: 刘伟的博客
+subtitle: "刘伟博客"
+description: "刘伟博客，记录生活，分享技术"
+keywords: 刘伟,博客,技术,生活
 author: Darren
 language: zh-CN
 timezone: ""
