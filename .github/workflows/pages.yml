@@ -45,6 +45,5 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./blog/public
-          external_repository: blog_darrenliuwei # 更改为你的 GitHub Pages 仓库, username 是你的用户名
+          external_repository: darrenliuwei/blog_darrenliuwei # 更改为你的 GitHub Pages 仓库, username 是你的用户名
           publish_branch: gh-pages # GitHub Pages 分支
-
