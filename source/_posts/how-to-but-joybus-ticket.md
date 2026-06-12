@@ -5,3 +5,6 @@ tags:
 ---
 
 测试一下
+
+<a href="https://www.vultr.com/?ref=9634529-9J">
+<img src="banner.png" width="100%" />
