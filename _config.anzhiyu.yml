@@ -588,10 +588,10 @@ google_adsense:
   enable_page_level_ads: true
 
 # Insert ads manually (手动插入广告)
-# ad:
-#   index:
-#   aside:
-#   post:
+ad:
+  index: <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="blog_darrenliuwei" data-ad-client="ca-pub-7115184053783576" data-ad-slot="5634297174"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script>
+  aside:
+  post:
 
 # Verification (站长验证)
 # --------------------------------------
